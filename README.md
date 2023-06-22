@@ -1,3 +1,13 @@
+This is my version of BONELAB Fusion. I am actively trying to port it to Android platforms and hope to get it out before the official Fusion devs make a Quest version.
+
+Havent started.
+
+Working on a Trello board: https://trello.com/b/sHNFuBji/bonelab-fustion-android
+
+
+
+Original README:
+
 # BONELAB Fusion Release
 A multiplayer mod for BONELAB featuring support for Oculus and SteamVR.
 This is currently only for PCVR platforms. [You can view a basic installation guide here.](INSTALLATION.md)
