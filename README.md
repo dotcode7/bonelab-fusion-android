@@ -4,7 +4,7 @@ Havent started.
 
 Working on a Trello board: https://trello.com/b/sHNFuBji/bonelab-fustion-android
 
-
+!! NOT AFFILIATED WITH SLZ, LAKATRAZZ AND THE FUSION DEVS, OR OTHER MULTIPLAYER MODS !!
 
 Original README:
 
